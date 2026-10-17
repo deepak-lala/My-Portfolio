@@ -6,7 +6,7 @@ export const config = {
         description: "MCA student at IIIT Bhopal with Infosys internship experience, seeking IT/AI roles to apply skills in machine learning, computer vision, and web development."
     },
     social: {
-        github: "aaravdeepak96",
+        github: "deepak-lala",
         email: "aaravdeepak96@gmail.com",
         location: "India"
     },
@@ -108,11 +108,9 @@ export const config = {
     ],
     contact: {
         email: "aaravdeepak96@gmail.com",
-        github: "https://github.com/aaravdeepak96",
-        linkedin: "https://linkedin.com/in/aaravdeepak96",
-        twitter: "",
-        facebook: "",
-        instagram: ""
+        github: "https://github.com/deepak-lala",
+        linkedin: "https://www.linkedin.com/in/deepak-kumar-gupta-16a523369/",
+        instagram: "https://instagram.com/_deepak.lala"
     },
     skills: {
         develop: {
